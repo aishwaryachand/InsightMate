@@ -1,21 +1,21 @@
-# 🧠 InsightMate: Local Feedback Analytics with LLaMA 2
+#  InsightMate: Local Feedback Analytics with LLaMA 2
 
 **Developed by Aishwarya Chand**  
 A lightweight, privacy-first feedback analytics engine powered by LLaMA 2 via Ollama, designed to help product teams extract **key themes, sentiment**, and **feature requests** from raw user feedback.
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-- 🔒 **Local-first**: Runs entirely offline using Ollama for LLaMA 2 model inference
-- ✨ **Summarization**: Converts long-form feedback into concise summaries
-- 💡 **Theme Extraction**: Identifies recurring pain points and product suggestions
-- 🎯 **Sentiment Analysis**: Tags feedback with positive, neutral, or negative sentiment
-- 📊 **Decision Support**: Outputs structured data to guide product roadmap
+-  **Local-first**: Runs entirely offline using Ollama for LLaMA 2 model inference
+-  **Summarization**: Converts long-form feedback into concise summaries
+-  **Theme Extraction**: Identifies recurring pain points and product suggestions
+-  **Sentiment Analysis**: Tags feedback with positive, neutral, or negative sentiment
+-  **Decision Support**: Outputs structured data to guide product roadmap
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python, Ollama, LLaMA 2
 - Pandas, Regex, Prompt Engineering
@@ -23,7 +23,7 @@ A lightweight, privacy-first feedback analytics engine powered by LLaMA 2 via Ol
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 - `app/`: Core logic including prompt templates and LLM interfacing
 - `data/`: Sample feedback data
@@ -32,7 +32,7 @@ A lightweight, privacy-first feedback analytics engine powered by LLaMA 2 via Ol
 
 ---
 
-## 🧪 How to Run
+##  How to Run
 
 ```bash
 # Step 1: Install Ollama and Python packages
